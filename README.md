@@ -5,9 +5,9 @@ Simple README: How it Works
 
 Logic Behind the 4 Patterns
 
-1. Star Triangle:
+. Star Triangle:
  
-3.  Uses simple string multiplication ("*" * i). As i grows, the line gets longer.
+.  Uses simple string multiplication ("*" * i). As i grows, the line gets longer.
  
 . Reverse Star:
 
